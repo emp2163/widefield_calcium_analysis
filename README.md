@@ -1,4 +1,4 @@
-# 🧠 Widefield Calcium Analysis
+# Widefield Calcium Imaging Analysis
 Parent project linking modular pipelines for mesoscale Ca²⁺ imaging analyses:
 - peak amplitudes/latencies
 - Pearson modularity connectivity (PCA + dendrograms, heatmaps)
