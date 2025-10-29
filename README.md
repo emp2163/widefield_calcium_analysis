@@ -8,7 +8,7 @@ Parent project linking modular pipelines for mesoscale Ca²⁺ imaging analyses:
 - supplemental materials
 
 <p align="center">
-  <img src="./figs/overview.png" alt="Analysis overview" width="740">
+  <img src="./figs/overview.png" alt="Analysis overview" width="150">
 </p>
 
 
