@@ -12,5 +12,7 @@ Parent project linking modular pipelines for mesoscale Ca²⁺ imaging analyses:
 </p>
 
 
-See `docs/` for other documentation. Each subfolder contains its own README
-and hypothesis testing unless otherwise noted.
+See `docs/` for other documentation including acceptible input file formats. 
+Each subfolder contains its own README and hypothesis testing unless otherwise 
+noted.
+
