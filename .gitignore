@@ -1,0 +1,23 @@
+# OS / editors
+.DS_Store
+*.swp
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+.envrc
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Data/outputs (keep small CSVs you intentionally commit)
+data/**/*.npy
+data/**/*.npz
+results/**/*.npy
+results/**/*.npz
+results/**/*.h5
+**/tmp/
