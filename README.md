@@ -1,11 +1,10 @@
 # Widefield Calcium Imaging Analysis
 Parent project linking modular pipelines for mesoscale Ca²⁺ imaging analyses:
-- peak amplitudes/latencies
-- Pearson modularity connectivity (PCA + dendrograms, heatmaps, circle plots)
-- wavelet power & adaptation with supervised prediction
-- Allen atlas coefficient barplots
-- behavior state metrics and predictions
-- supplemental materials
+- Common core atlas version 3 coefficient barplots (folder: allen_atlas_barplots)
+- Behavior state metrics and predictions (folder: behavior_state)
+- Evoked response peak amplitudes and latencies (folder: peak_amplitude_latency)
+- Pearson modularity connectivity (PCA + dendrograms, heatmaps, circle plots) (folder:pearson_modularity_connectivity)
+- supplemental materials (folder: supplemental)
 
 <p align="center">
   <img src="./figs/mouse_train.png" alt="Analysis overview" width="400">
